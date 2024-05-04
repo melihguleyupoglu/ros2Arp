@@ -1,0 +1,34 @@
+[0.498s] Invoking command in '/home/melih/ros2_ws_arp/build/arp_image_processing': PYTHONPATH=/home/melih/ros2_ws_arp/build/arp_image_processing/prefix_override:/home/melih/ros2_ws_arp/install/arp_image_processing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/melih/ros2_ws_arp/build/arp_image_processing/build
+[0.712s] running develop
+[0.712s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.712s]   warnings.warn(
+[0.850s] Removing /home/melih/ros2_ws_arp/install/arp_image_processing/lib/python3.10/site-packages/arp-image-processing.egg-link (link to .)
+[0.869s] Invoked command in '/home/melih/ros2_ws_arp/build/arp_image_processing' returned '0': PYTHONPATH=/home/melih/ros2_ws_arp/build/arp_image_processing/prefix_override:/home/melih/ros2_ws_arp/install/arp_image_processing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/melih/ros2_ws_arp/build/arp_image_processing/build
+[0.871s] Invoking command in '/home/melih/ros2_ws_arp/src/arp_image_processing': PYTHONPATH=/home/melih/ros2_ws_arp/build/arp_image_processing/prefix_override:/home/melih/ros2_ws_arp/install/arp_image_processing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arp_image_processing build --build-base /home/melih/ros2_ws_arp/build/arp_image_processing/build install --record /home/melih/ros2_ws_arp/build/arp_image_processing/install.log --single-version-externally-managed install_data --force
+[1.075s] running egg_info
+[1.076s] writing ../../build/arp_image_processing/arp_image_processing.egg-info/PKG-INFO
+[1.076s] writing dependency_links to ../../build/arp_image_processing/arp_image_processing.egg-info/dependency_links.txt
+[1.076s] writing entry points to ../../build/arp_image_processing/arp_image_processing.egg-info/entry_points.txt
+[1.076s] writing requirements to ../../build/arp_image_processing/arp_image_processing.egg-info/requires.txt
+[1.076s] writing top-level names to ../../build/arp_image_processing/arp_image_processing.egg-info/top_level.txt
+[1.077s] reading manifest file '../../build/arp_image_processing/arp_image_processing.egg-info/SOURCES.txt'
+[1.078s] writing manifest file '../../build/arp_image_processing/arp_image_processing.egg-info/SOURCES.txt'
+[1.078s] running build
+[1.078s] running build_py
+[1.078s] copying arp_image_processing/my_first_node.py -> /home/melih/ros2_ws_arp/build/arp_image_processing/build/lib/arp_image_processing
+[1.079s] running install
+[1.079s] running install_lib
+[1.079s] creating /home/melih/ros2_ws_arp/install/arp_image_processing/lib/python3.10/site-packages/arp_image_processing
+[1.079s] copying /home/melih/ros2_ws_arp/build/arp_image_processing/build/lib/arp_image_processing/my_first_node.py -> /home/melih/ros2_ws_arp/install/arp_image_processing/lib/python3.10/site-packages/arp_image_processing
+[1.079s] copying /home/melih/ros2_ws_arp/build/arp_image_processing/build/lib/arp_image_processing/__init__.py -> /home/melih/ros2_ws_arp/install/arp_image_processing/lib/python3.10/site-packages/arp_image_processing
+[1.080s] byte-compiling /home/melih/ros2_ws_arp/install/arp_image_processing/lib/python3.10/site-packages/arp_image_processing/my_first_node.py to my_first_node.cpython-310.pyc
+[1.080s] byte-compiling /home/melih/ros2_ws_arp/install/arp_image_processing/lib/python3.10/site-packages/arp_image_processing/__init__.py to __init__.cpython-310.pyc
+[1.080s] running install_data
+[1.080s] copying resource/arp_image_processing -> /home/melih/ros2_ws_arp/install/arp_image_processing/share/ament_index/resource_index/packages
+[1.080s] copying package.xml -> /home/melih/ros2_ws_arp/install/arp_image_processing/share/arp_image_processing
+[1.081s] running install_egg_info
+[1.082s] Copying ../../build/arp_image_processing/arp_image_processing.egg-info to /home/melih/ros2_ws_arp/install/arp_image_processing/lib/python3.10/site-packages/arp_image_processing-0.0.0-py3.10.egg-info
+[1.083s] running install_scripts
+[1.100s] Installing test_node script to /home/melih/ros2_ws_arp/install/arp_image_processing/lib/arp_image_processing
+[1.100s] writing list of installed files to '/home/melih/ros2_ws_arp/build/arp_image_processing/install.log'
+[1.117s] Invoked command in '/home/melih/ros2_ws_arp/src/arp_image_processing' returned '0': PYTHONPATH=/home/melih/ros2_ws_arp/build/arp_image_processing/prefix_override:/home/melih/ros2_ws_arp/install/arp_image_processing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arp_image_processing build --build-base /home/melih/ros2_ws_arp/build/arp_image_processing/build install --record /home/melih/ros2_ws_arp/build/arp_image_processing/install.log --single-version-externally-managed install_data --force

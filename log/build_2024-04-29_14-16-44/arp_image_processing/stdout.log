@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing arp_image_processing.egg-info/PKG-INFO
+writing dependency_links to arp_image_processing.egg-info/dependency_links.txt
+writing entry points to arp_image_processing.egg-info/entry_points.txt
+writing requirements to arp_image_processing.egg-info/requires.txt
+writing top-level names to arp_image_processing.egg-info/top_level.txt
+reading manifest file 'arp_image_processing.egg-info/SOURCES.txt'
+writing manifest file 'arp_image_processing.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/melih/ros2_ws_arp/install/arp_image_processing/lib/python3.10/site-packages/arp-image-processing.egg-link (link to .)
+Installing test_node script to /home/melih/ros2_ws_arp/install/arp_image_processing/lib/arp_image_processing
+
+Installed /home/melih/ros2_ws_arp/build/arp_image_processing
+running symlink_data
+symbolically linking /home/melih/ros2_ws_arp/build/arp_image_processing/resource/arp_image_processing -> /home/melih/ros2_ws_arp/install/arp_image_processing/share/ament_index/resource_index/packages
+symbolically linking /home/melih/ros2_ws_arp/build/arp_image_processing/package.xml -> /home/melih/ros2_ws_arp/install/arp_image_processing/share/arp_image_processing

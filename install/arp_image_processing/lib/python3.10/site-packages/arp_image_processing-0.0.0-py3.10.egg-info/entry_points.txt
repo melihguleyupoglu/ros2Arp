@@ -1,0 +1,7 @@
+[console_scripts]
+draw_circle = arp_image_processing.draw_circle:main
+map_publisher = arp_image_processing.map_publisher:main
+path_planning = arp_image_processing.path_planning:main
+pose_subscriber = arp_image_processing.pose_subscriber:main
+test_node = arp_image_processing.my_first_node:main
+
