@@ -14,6 +14,7 @@ class PathPlanningNode(Node):
             'map',
             self.listener_callback,
             10)
+        # this will publish to control algorithm in next steps.
         self.publisher = self.create_publisher(Twist, '/turtle1/cmd_vel', 10)
         # self.get_logger().info('s.a')
         self.subscription  # prevent unused variable warning
